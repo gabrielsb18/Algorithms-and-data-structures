@@ -1,10 +1,3 @@
-# ARRAY PRINCIPAL (SIZE FIXO)
-# SUB-LISTAS
-# HASHING FUNCTION (HASH)
-
-# RESIZING
-# LINKED LIST
-
 # class HashMap:
 #     def __init__(self, size=100) -> None:
 #         self.size = size
